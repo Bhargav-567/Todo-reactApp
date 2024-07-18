@@ -20,6 +20,7 @@ cd <Todo-reactApp>
 npm install
 
 3.Start the development server:
+
 npm start
 
 # Deployment
